@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.curser{
+    color: blue;
+    /* cursor:alias; */
+    cursor: crosshair;
+    cursor: url("https://em-content.zobj.net/thumbs/120/apple/354/face-with-tears-of-joy_1f602.png"), auto;
+}
